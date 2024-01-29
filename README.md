@@ -19,3 +19,12 @@
 | ![Over](./tic-tac-toe-starting-project/over.png)       | ![Draw](./tic-tac-toe-starting-project/draw.png)         |
 
 ---
+
+
+## 2. taimu-sutoppu
+
+: 시간 맞추기
+
+| ![Initial](./taimu-sutoppu/png/initial.png) | ![Name](./taimu-sutoppu/png/name.png) |
+| -------------------------------------------------------- | -------------------------------------------------------- |
+| ![Lost](./taimu-sutoppu/png/lost.png)       | ![Score](./taimu-sutoppu/png/score.png)         |
