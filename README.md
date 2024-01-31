@@ -28,3 +28,13 @@
 | ![Initial](./taimu-sutoppu/png/initial.png) | ![Name](./taimu-sutoppu/png/name.png) |
 | -------------------------------------------------------- | -------------------------------------------------------- |
 | ![Lost](./taimu-sutoppu/png/lost.png)       | ![Score](./taimu-sutoppu/png/score.png)         |
+
+
+---
+
+## 3, food-order
+: http request, context
+| ![Normal](./food-order/png/normal.png) | ![Cart](./food-order/png/cart.png) |
+| -------------------------------------------------------- | -------------------------------------------------------- |
+| ![Checkout](./food-order/png/checkout.png)       | ![Success](./food-order/png/success.png)         |
+
